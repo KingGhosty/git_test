@@ -1,0 +1,1 @@
+This is King Ghosty's first git project!
